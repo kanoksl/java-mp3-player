@@ -1,0 +1,31 @@
+Java Media Player (MP3) Project
+2301260 PROGRAMMING TECHNIQUES / 2014
+
+Author: Kanoksilp Jindadoungrut, Sci 5733652723
+
+------------------------------
+
+Additional Libraries Used:
+- JLayer MP3 (http://www.javazoom.net/javalayer/javalayer.html)
+- Jaudiotagger (http://www.jthink.net/jaudiotagger/)
+- imgscalr (https://github.com/thebuzzmedia/imgscalr)
+
+------------------------------
+
+Special Thanks to:
+- A guide on how to add pausing feature to JLayer's player.
+  http://thiscouldbebetter.wordpress.com/2011/07/04/pausing-an-mp3-file-using-jlayer/
+- A guide on how to set volume of an AudioDevice.
+  http://stackoverflow.com/questions/648107/
+- PasswordStore, a Java Swing demo project, as a guideline on GUI design and programming.
+  http://da2i.univ-lille1.fr/doc/tutorial-java/ui/overview/demo.html
+- Socket and network programming examples.
+  http://www.cs.uic.edu/~troy/spring05/cs450/sockets/socket.html
+
+------------------------------
+
+Image Credits:
+- Music Note Icon
+  http://www.endlessicons.com/free-icons/music-note-icon/
+
+------------------------------
